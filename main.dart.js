@@ -69183,7 +69183,7 @@ return this.a.AL(b,s)},
 $S:165}
 A.nF.prototype={
 K(a,b){var s=null
-return A.t8(A.wp(s,s,!0,s,B.O1),new A.zK(new A.ob(this.c,1),s),!1,s)}}
+return A.t8(A.wp(s,s,!0,s,B.O5),new A.zK(new A.ob(this.c,1),s),!1,s)}}
 A.nL.prototype={
 av(){var s=$.bw,r=(s==null?$.bw=$.dV():s).dS(0,"[DEFAULT]")
 A.bx(r,$.dH(),!1)
@@ -69327,7 +69327,7 @@ $1(a){return B.Ix},
 $S:439}
 A.ag_.prototype={
 $1(a){var s=null,r=A.jS(8),q=t.p
-return new A.tr(A.b([A.aW(s,A.hA(A.b([A.aW(s,B.Cj,s,s,s,s,B.mR,s,s),B.O7,B.O0],q),B.P,B.a5,B.eN),B.bx,s,s,s,s,B.Bt,s),A.au3(A.fy(A.b([A.aW(s,B.Cl,s,s,s,s,B.mS,s,s),B.O4],q),B.P,B.a5,B.M),new A.afY(a)),A.au3(A.fy(A.b([A.aW(s,B.Cd,s,s,s,s,B.mS,s,s),B.O5],q),B.P,B.a5,B.M),new A.afZ(a))],q),B.aa,B.a0,new A.d5(r,B.q),s)},
+return new A.tr(A.b([A.aW(s,A.hA(A.b([A.aW(s,B.Cj,s,s,s,s,B.mR,s,s),B.O7,B.O0],q),B.P,B.a5,B.eN),B.bx,s,s,s,s,B.Bt,s),A.au3(A.fy(A.b([A.aW(s,B.Cl,s,s,s,s,B.mS,s,s),B.O3],q),B.P,B.a5,B.M),new A.afY(a)),A.au3(A.fy(A.b([A.aW(s,B.Cd,s,s,s,s,B.mS,s,s),B.O4],q),B.P,B.a5,B.M),new A.afZ(a))],q),B.aa,B.a0,new A.d5(r,B.q),s)},
 $S:440}
 A.afY.prototype={
 $0(){A.cT(this.a,!1).r0(0,0)},
@@ -69437,7 +69437,7 @@ $2(a,b){A.dg(null,J.bv(a))},
 $S:81}
 A.tn.prototype={
 K(a,b){var s=null
-return A.t8(A.wp(s,s,!0,s,B.O2),new A.B3(s),!1,s)}}
+return A.t8(A.wp(s,s,!0,s,B.O1),new A.B3(s),!1,s)}}
 A.B3.prototype={
 av(){var s=null
 return new A.B4(A.b([],t.s),A.r4(!0,s,!0,s,s,!1),A.r4(!0,s,!0,s,s,!1),B.k)}}
@@ -69630,7 +69630,7 @@ return A.t8(r,A.lI(r,A.aW(r,A.B7(new A.e0(new A.am(20,b.R(p).f.a.b*0.1,20,0),A.h
 Rr(){var s=null
 return A.fy(A.b([B.O8,A.lI(s,B.O6,B.an,!1,s,s,s,s,s,s,s,s,s,s,s,new A.aiK(this),s,s,s,s,s,s)],t.p),B.P,B.tz,B.M)},
 ab0(a){var s=null,r=a.R(t.w).f
-return A.aW(B.wo,A.hj(B.O3,new A.aiI(a),s),s,s,s,35,s,s,r.a.a)}}
+return A.aW(B.wo,A.hj(B.O2,new A.aiI(a),s),s,s,s,35,s,s,r.a.a)}}
 A.aiF.prototype={
 $0(){var s=this.a,r=t.P
 A.anv(this.b.eK(0,s.e.a.a,s.d.a.a).aO(0,new A.aiD(this.c),r),new A.aiE(),r,t.K)},
@@ -76245,13 +76245,13 @@ B.O_=new A.e4(B.KU,B.MD,B.MQ,B.Ny,B.Mc,B.Li,B.MK,B.Mf,B.Mn,B.Nd,B.Ls,B.NE,B.M7,B
 B.vZ=new A.BJ(1,"longestLine")
 B.Nn=new A.p(!0,B.u,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.O0=new A.dA("Are you sure to exit app?",null,B.Nn,null,null,null,null,null,null)
-B.O1=new A.dA("FullPhoto",null,B.cd,null,null,null,null,null,null)
-B.O2=new A.dA("Settings",null,B.cd,null,null,null,null,null,null)
+B.O1=new A.dA("Settings",null,B.cd,null,null,null,null,null,null)
 B.vY=new A.p(!0,B.u,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.O3=new A.dA("Forgot Password?",null,B.vY,B.ll,null,null,null,null,null)
+B.O2=new A.dA("Forgot Password?",null,B.vY,B.ll,null,null,null,null,null)
 B.vV=new A.p(!0,B.m,null,null,null,null,null,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.O4=new A.dA("Cancel",null,B.vV,null,null,null,null,null,null)
-B.O5=new A.dA("Yes",null,B.vV,null,null,null,null,null,null)
+B.O3=new A.dA("Cancel",null,B.vV,null,null,null,null,null,null)
+B.O4=new A.dA("Yes",null,B.vV,null,null,null,null,null,null)
+B.O5=new A.dA("Full Photo",null,B.cd,null,null,null,null,null,null)
 B.Np=new A.p(!0,B.j,null,null,null,null,null,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.O6=new A.dA(" Sign Up",null,B.Np,null,null,null,null,null,null)
 B.Nq=new A.p(!0,B.j,null,null,null,null,18,B.aH,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
